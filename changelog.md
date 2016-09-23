@@ -6,3 +6,4 @@ Coding Style: Allman Notation
 Changelog:
 Added a changelog for project -Eric
 Changed the static .html webpages to trivial CodeIgnitor webpages -Justins
+Converted Website from Trivial CI to Basic CI -Eric
