@@ -5,12 +5,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-
-/**
- * Description of Images
- *
- * @author manish
- */
 class Images extends CI_Model {
     //put your code here
     
